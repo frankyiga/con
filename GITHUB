@@ -1,0 +1,16 @@
+echo "# insurance" >> README.md
+git init
+git add README.md
+git commit -m "faq added"
+git branch -M master
+git remote add origin https://github.com/y1g4/silver.git
+git push -u origin master
+
+
+git remote add origin https://github.com/y1g4/insurance.git
+git branch -M main
+git push -u origin main
+
+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
+
+https://github.com/MusanjeLawrence/Meds-ecommerce
